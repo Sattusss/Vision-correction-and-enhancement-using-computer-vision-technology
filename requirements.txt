@@ -1,0 +1,6 @@
+tensorflow
+tensorflow-hub
+opencv-contrib-python
+pandas
+numpy
+pyttsx3
